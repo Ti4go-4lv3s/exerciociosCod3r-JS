@@ -2,7 +2,7 @@ function calculos(a, b) {
     return `calculos entre ${a} e ${b} 
     soma  = ${a + b} 
     subtraçao = ${a - b}
-    multiplixação = ${a * b}
+    multiplicação = ${a * b}
     divisão = ${Number(a / b).toFixed(2)}
     módulo = ${a % b}`
 }
