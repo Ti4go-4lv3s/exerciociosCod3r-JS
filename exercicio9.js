@@ -13,4 +13,4 @@ function sistemasDeNotas (nota) {
        
 }
 
-console.log(sistemasDeNotas(45))
+console.log(sistemasDeNotas(52))
